@@ -1,9 +1,9 @@
 ### Hi there 👋
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=fancyicookie&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> -->
 
-- 🌱 I’m currently learning high dynamic range imaging of computer vision and want to learn something about front end.
+- 🌱 I’m currently learning high dynamic range imaging of computer vision and learning something about front-end.
 - 😄 I want to be brave and to be myself.
-- ⚡ I'm looking to create something that can be remembered by others.
+- ⚡ I want to try to do something more meaningful.
 
 <!--
 **fancyicookie/fancyicookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
